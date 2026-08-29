@@ -1,0 +1,29 @@
+{
+  "source": "Codex ImageGen bottom-entry chroma-key source; intermediate not bundled",
+  "direction": "bottom-to-top",
+  "tip_anchor": [
+    0.023086,
+    0.013267
+  ],
+  "source_tip": [
+    0.281,
+    0.047
+  ],
+  "key_rgb": [
+    7.0,
+    248.0,
+    10.0
+  ],
+  "source_crop": [
+    340,
+    47,
+    876,
+    1254
+  ],
+  "post_crop": [
+    0,
+    0,
+    536,
+    900
+  ]
+}

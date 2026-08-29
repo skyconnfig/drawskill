@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "title": "Example whiteboard narration",
+  "visual_style": "editorial-character",
+  "narration": "一个清楚的想法，可以用一张简单的图讲明白。",
+  "narrator_gender": "female",
+  "speech_rate_cps": 4.2,
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "background": "#fbf8ef",
+    "caption_safe_area": {
+      "enabled": true,
+      "top_ratio": 0.76,
+      "bottom_ratio": 1.0
+    }
+  },
+  "style": {
+    "grid_cell": 5,
+    "ink_threshold": 170,
+    "content_distance": 12,
+    "draw_ratio": 0.67,
+    "color_ratio": 0.33,
+    "direct_draw": false,
+    "fill_route_stride": 3,
+    "max_reveal_radius_px": 22,
+    "hold_seconds": 1.2,
+    "paper_noise": 2.2
+  },
+  "hand": {
+    "image": "default-hand.png",
+    "metadata": "default-hand.json",
+    "width_ratio": 0.19
+  },
+  "scenes": [
+    {
+      "id": "scene-001",
+      "narration": "一个清楚的想法，可以用一张简单的图讲明白。",
+      "duration": 6.5,
+      "visual_prompt": "A glowing idea bulb transforms through one arrow into a simple explanatory diagram.",
+      "image": "style-anchor.png"
+    }
+  ]
+}

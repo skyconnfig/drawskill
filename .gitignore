@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Generated project media and render checkpoints stay outside the Skill repo.
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.mp4
+*.mov
+*.mkv
+*.webm
+audio/
+output/
+evidence/
+renders/

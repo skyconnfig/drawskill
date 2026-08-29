@@ -1,0 +1,4 @@
+interface:
+  display_name: "手绘跟随动画"
+  short_description: "把中文口播制作成笔尖同步、配音匹配的原创手绘跟随动画"
+  default_prompt: "Use $hand-drawn-follow-animation to turn this Chinese narration and optional style reference into an original nib-synchronized drawing video with gender-matched TTS and timed subtitles."
